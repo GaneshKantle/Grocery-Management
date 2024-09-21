@@ -21,11 +21,11 @@ A simple and intuitive command-line application built in Python to manage grocer
 
 **1. Run the application and select an option from the menu:**
 
-    - Add new item
-    - Update item quantity
-    - View Inventory
-    - Remove item
-    - Exit
+- Add new item-
+- Update item quantity
+- View Inventory
+- Remove item
+- Exit
     
 **2. Follow the prompts to perform the selected action**
 
