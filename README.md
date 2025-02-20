@@ -30,6 +30,10 @@ A simple and intuitive command-line application built in Python to manage grocer
 **2. Follow the prompts to perform the selected action**
 
 
+## Sample Output
+<img width="907" alt="Output Image 1" src="https://github.com/user-attachments/assets/42bd0060-b655-4e33-b37b-9554a228fb69" />
+
+
 ## How to Access
 You can explore this by cloning the repository:
 ```bash
