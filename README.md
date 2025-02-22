@@ -16,6 +16,17 @@ A simple and intuitive command-line application built in Python to manage grocer
 
 - Python 3.x
 
+  
+## Project Structure
+```
+Directory structure:
+└── ganeshkantle-grocery-management/
+    ├── README.md
+    ├── LICENSE
+    └── Grocery Inventory Management/
+        ├── Code.py
+        └── Output Snapshots/
+```
 
 ## Usage
 
