@@ -48,5 +48,5 @@ Directory structure:
 ## How to Access
 You can explore this by cloning the repository:
 ```bash
-gh repo clone GaneshKantle/Grocery-Inventory-Management
+git clone https://github.com/GaneshKantle/Grocery-Management
 cd Grocery-Inventory-Management
