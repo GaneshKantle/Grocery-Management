@@ -49,3 +49,4 @@ Directory structure:
 You can explore this by cloning the repository:
 ```bash
 gh repo clone GaneshKantle/Grocery-Inventory-Management
+cd Grocery-Inventory-Management
