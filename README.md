@@ -48,5 +48,12 @@ Directory structure:
 ## How to Access
 You can explore this by cloning the repository:
 ```bash
-git clone https://github.com/GaneshKantle/Grocery-Management
+git clone https://github.com/GaneshKantle/Grocery-Management.git
 cd Grocery-Inventory-Management
+```
+
+## 📬 Contact
+For any queries, feel free to reach out:
+- **Email:** ganeshkantle@gmail.com
+- **GitHub:** (https://github.com/ganeshkantle)
+- **My Bento:** (https://bento.me/kantle)
