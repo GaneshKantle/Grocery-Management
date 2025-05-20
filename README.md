@@ -56,3 +56,4 @@ For any queries, feel free to reach out:
 - **Email:** ganeshkantle@gmail.com
 - **GitHub:** (https://github.com/ganeshkantle)
 - **My Bento:** (https://bento.me/kantle)
+- **My Portfolio:** (https://ganesh-portfolio-dusky.vercel.app/)
